@@ -48,7 +48,7 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 
 1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](https://docs.google.com/spreadsheets/d/e/2PACX-1vRoXCEDU7tHMFYzPeKKTN5iEnMcxyYKO1MWKGyuDwDyHv9_jPuznmeNGUyplq3ldCfviQJaVlyP0XMG/pubhtml) link veriniz.
 
-2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.
+2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz. [Buraya](https://docs.google.com/spreadsheets/d/e/2PACX-1vRoXCEDU7tHMFYzPeKKTN5iEnMcxyYKO1MWKGyuDwDyHv9_jPuznmeNGUyplq3ldCfviQJaVlyP0XMG/pubhtml)
 
 3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
 
