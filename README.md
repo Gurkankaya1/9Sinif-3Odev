@@ -46,7 +46,7 @@ Ben kendi verilerim için bir google sheet hazırladım. [Buraya](https://docs.g
 *   Customize ------> Trendline -------> Linear, Label=Use Equation
 kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafiği 1.dereceden (linear-doğrusal) denklem. 
 
-1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](https://docs.google.com/spreadsheets/d/e/2PACX-1vSPfnok16EW--4-zHU5tOp4HOp7q59YiKDfW0RomBfkpXvNX-ULwo1YDOnmJSyQoSyfT3uMEq-_ul1-/pubhtml) link veriniz.
+1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](https://docs.google.com/spreadsheets/d/e/2PACX-1vRoXCEDU7tHMFYzPeKKTN5iEnMcxyYKO1MWKGyuDwDyHv9_jPuznmeNGUyplq3ldCfviQJaVlyP0XMG/pubhtml) link veriniz.
 
 2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.
 
